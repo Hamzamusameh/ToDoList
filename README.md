@@ -1,4 +1,4 @@
-# Training Session Code (ToDo App)
+# ToDo App
 
 ***
 
@@ -19,15 +19,14 @@
 
 ### Steps:
 ##### Pull the project
-`git clone https://user_id@bitbucket.org/gcediv/training-node-todoapp.git`
 
 ##### Install dependencies and run the projects
 Server project (default port 4000)
-`CD \training-node-todoapp\server-side`
+`CD \todoapp\server-side`
 `npm install`
 `node index`
 
 Client project (React) (default port 3000)
-`CD \training-node-todoapp\server-side`
+`CD \todoapp\server-side`
 `npm install`
 `npm start`
